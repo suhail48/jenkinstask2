@@ -1,3 +1,3 @@
 <?php
-print "Too kaise hai aap log? "
+print "To kaise hai aap log? "
 ?>
